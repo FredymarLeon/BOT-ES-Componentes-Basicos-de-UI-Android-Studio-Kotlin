@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Botoes Componentes Basicos de UI</string>
+
+    <string name="button">BUTTON</string>
+    <string name="description_image_button">Imagem de uma família</string>
+    <string name="toggle_ligado_button">Ligado</string>
+    <string name="toggle_desligado_button">Desligado</string>
+    <string name="description_FAB_button">Botão de alerta</string>
 </resources>
